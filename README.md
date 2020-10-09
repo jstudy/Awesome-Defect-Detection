@@ -1,7 +1,7 @@
 # Awesome-Defect-Detection
 # Contents
-* Datasets
-* Papers
+* Datasets [Datasets]
+* Papers []
 
 # Datasets
 # Papers
