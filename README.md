@@ -34,7 +34,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI2区)[[paper](https://arxiv.org/abs/1903.08536v3)]
+- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)]
 
 <details>
 <summary>Earlier ArXiv Papers</summary>
