@@ -1,2 +1,2 @@
 # Awesome-Defect-Detection
-Contents
+# Contents
