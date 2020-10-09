@@ -58,8 +58,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - <a name="SANet"></a> **[CTFM]** A Coarse-to-Fine Model for Rail Surface Defect Detection [[paper](https://ieeexplore.ieee.org/abstract/document/8424494)]
 
-)
-
 ## Leaderboard
 The section is being continually updated. Note that some values have superscript, which indicates their source. 
 
