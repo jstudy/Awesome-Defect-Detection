@@ -20,7 +20,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Technical blog
 - [Chinese Blog] 基于深度学习的缺陷检测算法汇总 [[Link](https://mp.weixin.qq.com/s/0yIetPltdvFkCe4kwpGa2w)]
-
+- [Chinese Blog] 表面缺陷检测数据集汇总及其相关项目推荐 [[Link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247498632&idx=2&sn=a39387b9c15794393eb6e2c9561616cf&chksm=ec1c1671db6b9f676670c815e540bc5fadc2d94ac05404d0dcfbca82f5f93bc09331fb61c95d&scene=21#wechat_redirect)]
 
 ## Datasets
 
@@ -47,7 +47,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - Inspection of Imprint Defects in Stamped Metal Surfaces using Deep Learning and Tracking (IEEE-TIE)[[paper](https://ieeexplore.ieee.org/document/9062515)]
 - <a name="D-ConvNet"></a> **[RPAN]** Deep Learning-based Solar-Cell Manufacturing Defect Detection with Complementary Attention Network (Network-TII)[[paper](https://ieeexplore.ieee.org/document/9136904)]
-- <a name="D-ConvNet"></a> **[PGA-Net]** PGA-Net: Pyramid Feature Fusion and Global Context Attention Network for Automated Surface Defect Detection (IEEE)[[paper](https://ieeexplore.ieee.org/document/8930292)]
+- <a name="D-ConvNet"></a> **[PGA-Net]** PGA-Net: Pyramid Feature Fusion and Global Context Attention Network for Automated Surface Defect Detection (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8930292)]
 - Deep-Learning-Based Small Surface Defect Detection via an Exaggerated Local Variation-Based Generative Adversarial Network (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8859390)]
 - <a name="D-ConvNet"></a> **[ESP]** Surface Defect Detection via Entity Sparsity Pursuit With Intrinsic Priors (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8717723)]
 - <a name="D-ConvNet"></a> **[NDT]** Multiview Learning for Subsurface Defect Detection in Composite Products: A Challenge on Thermographic Data Analysis (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8949715)]
@@ -61,7 +61,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - <a name="D-ConvNet"></a> **[ESP]** Surface Defect Detection via Entity Sparsity Pursuit With Intrinsic Priors (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8717723/authors#authors)]
 - <a name="D-ConvNet"></a> **[CODEBRIM]** Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classiﬁcation with the COncrete DEfect BRidge IMage Dataset(CVPR-2019)[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.pdf)]
-- <a name="D-ConvNet"></a> **[SDD-CNN]** applsci-SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection(SCI) [[paper](https://www.mdpi.com/2076-3417/9/7/1364)]
+- <a name="D-ConvNet"></a> **[SDD-CNN]** applsci-SDD-CNN Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection(Applied Sciences) [[paper](https://www.mdpi.com/2076-3417/9/7/1364)]
 - An End-to-End Steel Surface Defect Detection Approach via Fusing Multiple Hierarchical Features (IEEE-TIM)[[paper](https://repository.lboro.ac.uk/articles/journal_contribution/An_end-to-end_steel_surface_defect_detection_approach_via_fusing_multiple_hierarchical_features/12249215)]
 - A New Self-Reference Image Decomposition Algorithm for Strip Steel Surface Defect Detection(IEEE-TIM) [[paper](https://ieeexplore.ieee.org/abstract/document/8897030)]
 - Automatic fabric defect detection with a wide-and-compact network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218313109?via%3Dihub)]
