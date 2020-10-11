@@ -96,5 +96,3 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/ilx839gI2Av06dAlOXiR5g
 The section is being continually updated. Note that some values have superscript, which indicates their source. 
 
 
-### ShanghaiTech Part A
-
