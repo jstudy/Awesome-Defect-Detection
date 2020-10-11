@@ -46,8 +46,11 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw
 Research on this paper [[Link](https://mp.weixin.qq.com/s/xJgL3t63ipfv2JYsOZpeYg)]
 - Gated Channel Transformation for Visual Recognition [[paper](https://arxiv.org/abs/1909.11519)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA)]
-
-
+- Dual Attention Network for Scene Segmentation (CVPR)[[paper](https://arxiv.org/abs/1809.02983)]  
+Research on this paper [[Link](https://zhuanlan.zhihu.com/p/48056789)]
+- Squeeze-and-Excitation Networks (CVPR*2018)[[paper](https://arxiv.org/abs/1709.01507)]  
+Research on this paper [[Link](https://zhuanlan.zhihu.com/p/32702350)]
+- Squeeze-and-Attention Networks for Semantic Segmentation (CVPR-2020)[[paper](https://arxiv.org/abs/1909.03402)]
 
 <details>
 <summary>Earlier ArXiv Papers</summary>
@@ -91,6 +94,12 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/ilx839gI2Av06dAlOXiR5g
 ### 2018
 
 - <a name="SANet"></a> **[CTFM]** A Coarse-to-Fine Model for Rail Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8424494)]
+- <a name="SANet"></a> **[CBAM]** Convolutional Block Attention Module (ECCV)[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)]  
+Research on this paper [[Link](https://zhuanlan.zhihu.com/p/65529934)]
+
+### 2017
+
+- <a name="SANet"></a> **[CTFM]** SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning (CVPR)[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf)]
 
 ## Leaderboard
 The section is being continually updated. Note that some values have superscript, which indicates their source. 
