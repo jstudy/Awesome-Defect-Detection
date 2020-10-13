@@ -13,7 +13,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### Challenge
-
+- 异常检测（anomaly/ outlier detection）领域还有那些值得研究的问题？[[Link](https://mp.weixin.qq.com/s/9LARhkDabD5kLwqFf8GBdA)]
 
 ### Code
 
