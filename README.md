@@ -34,7 +34,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)]
+- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)][[code]([[paper](https://arxiv.org/abs/1903.08536v3)])]
 - Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows [[paper](https://arxiv.org/abs/2008.12577)]
 
 
@@ -87,11 +87,14 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - An End-to-End Steel Surface Defect Detection Approach via Fusing Multiple Hierarchical Features (IEEE-TIM)[[paper](https://repository.lboro.ac.uk/articles/journal_contribution/An_end-to-end_steel_surface_defect_detection_approach_via_fusing_multiple_hierarchical_features/12249215)]
 - A New Self-Reference Image Decomposition Algorithm for Strip Steel Surface Defect Detection(IEEE-TIM) [[paper](https://ieeexplore.ieee.org/abstract/document/8897030)]
 - Automatic fabric defect detection with a wide-and-compact network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218313109?via%3Dihub)]
+- AnomalyNet: An Anomaly Detection Network for Video Surveillance (IEEE-TIFS)[[paper](https://ieeexplore.ieee.org/document/8649753)]
+- Anomaly Detection in Images (CVPR-2019)[[paper](https://arxiv.org/abs/1905.13147)]
 
 
 ### 2018
 
 - <a name="SANet"></a> **[CTFM]** A Coarse-to-Fine Model for Rail Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8424494)]
+- <a name="SANet"></a> **[MIL]** Real-world Anomaly Detection in Surveillance Videos (CVPR-2018)[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)][[code](https://github.com/root-master/pose-anomaly-detection?utm_source=catalyzex.com)]
 
 
 ### 2017
