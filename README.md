@@ -36,7 +36,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)][[code]([[paper](https://arxiv.org/abs/1903.08536v3)])]
 - Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows [[paper](https://arxiv.org/abs/2008.12577)]
-
+- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1901.03407v1)][[code]([[paper](https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)])]
 
 
 
