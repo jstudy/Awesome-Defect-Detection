@@ -34,9 +34,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)][[code]([[paper](https://arxiv.org/abs/1903.08536v3)])]
+- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)][[code](https://arxiv.org/abs/1903.08536v3)]
 - Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows [[paper](https://arxiv.org/abs/2008.12577)]
-- Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1901.03407v1)][[code]([[paper](https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)])]
+- Deep Learning for Anomaly Detection: A Survey [[paper](https://arxiv.org/abs/1901.03407v1)][[code](https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)]
 
 
 
