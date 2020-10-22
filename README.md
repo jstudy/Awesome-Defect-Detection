@@ -15,13 +15,16 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Challenge
 - 异常检测（anomaly/ outlier detection）领域还有那些值得研究的问题？[[Link](https://mp.weixin.qq.com/s/9LARhkDabD5kLwqFf8GBdA)]
 
+
+
 ### Code
 
 
 ### Technical blog
 - [Chinese Blog] 基于深度学习的缺陷检测算法汇总 [[Link](https://mp.weixin.qq.com/s/0yIetPltdvFkCe4kwpGa2w)]
 - [Chinese Blog] 表面缺陷检测数据集汇总及其相关项目推荐 [[Link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247498632&idx=2&sn=a39387b9c15794393eb6e2c9561616cf&chksm=ec1c1671db6b9f676670c815e540bc5fadc2d94ac05404d0dcfbca82f5f93bc09331fb61c95d&scene=21#wechat_redirect)]
-
+### Tricks
+- [Chinese Blog] 谷歌自动数据增强算法RandAugment，极大简化搜索空间，平衡成本与性能 [[Link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247510988&idx=1&sn=59df689486d7ae45700651d027d858cc&chksm=ec1c4635db6bcf2379f1723941537a303598644aaf54e11b7eb32f6cf4ce8b790d0585c24091&mpshare=1&scene=1&srcid=1017bmbKXmHu3V8KE5cmm0nF&sharer_sharetime=1602947045781&sharer_shareid=fd8c7684b39b2eac07b5e0c63bf1346a&key=b0e41fc55fd7ea00ce73783ebaba5e0a4be9e02dc406d950dc14b9886b502ec802e039e30b9913dd6e23243f0c5bc6e789e7caab9c8997a5d35303de4d2975ecdbfd72e48291b556e97c5209d3b1e0316a006b77ab73c75a877c3bfd7c45cdfaadbf70308e121c969d70d19eab5ea6f88f3af31fb04a44b31585b11a9e27952f&ascene=1&uin=Mjg1Mzg0ODMzMA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AWJGUUCV7ePJFpA89qhSBs8%3D&pass_ticket=Cz67wUTL3RpVi0NHLVPCJOM8DtIHGFNJZqgE5Tk%2FDHEDHwgbRWtMAfGco6cfR%2BOZ&wx_header=0)][[paper](https://arxiv.org/abs/1909.13719)][[code](https://github.com/tensorflow/tpu/blob/master/models/official/efficientnet/autoaugment.py)]
 ## Datasets
 
 Please refer to [this page](src/Datasets.md).
