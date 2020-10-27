@@ -48,7 +48,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Segmentation-Based Deep-Learning Approach for Surface-Defect (SCI)[[paper](https://arxiv.org/abs/1903.08536v3)][[code](https://arxiv.org/abs/1903.08536v3)]
 - Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows [[paper](https://arxiv.org/abs/2008.12577)]
 - Deep Learning for Anomaly Detection: A Survey [[paper](https://arxiv.org/abs/1901.03407v1)][[code](https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)]
-
+- Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation [[paper](https://arxiv.org/abs/2007.09438)]
 
 
 
@@ -88,7 +88,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Electronic Product Surface Defect Detection Based on a MSSD Network (IEEE-ITNEC)[[paper](https://ieeexplore.ieee.org/document/9084756)]
 - Research on Defect Detection Method for Steel Metal Surface based on Deep Learning (IEEE-ITOEC)[[paper](https://ieeexplore.ieee.org/document/9141669)]
 - Surface damage detection for steel wire ropes using deep learning and computer vision techniques [[paper](https://www.sciencedirect.com/science/article/pii/S026322412030381X)]
-
+- A Data-Flow Oriented Deep Ensemble Learning Method for Real-Time Surface Defect Inspection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/8928581)]
+- A Deep Learning-Based Surface Defect Inspection System Using Multiscale and Channel-Compressed Features (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/9063543)]
 
 ### 2019
 
