@@ -81,7 +81,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A novel algorithm for defect extraction and classification of mobile phone screen based on machine vision (Inf Fusion)[[paper](https://www.sciencedirect.com/science/article/pii/S0360835220302643)]
 - A Steel Surface Defect Recognition Algorithm Based on Improved Deep Learning Network Model Using Feature Visualization and Quality Evaluation (IEEE-Access)[[paper](https://ieeexplore.ieee.org/document/9031427)]
 - Automated defect inspection system for metal surfaces based on deep learning and data augmentation (Inf Fusion)[[paper](https://www.sciencedirect.com/science/article/pii/S027861252030042X)]
-- <a name="D-ConvNet"></a> **[CADN]** CADN: A weakly supervised learning-based category-aware object detection network for surface defect detection (Inf Fusion)[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303745)]
+- <a name="D-ConvNet"></a> **[CADN]** CADN: A weakly supervised learning-based category-aware object detection network for surface defect detection (PR)[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303745)]
 - <a name="D-ConvNet"></a> **[PDDNet]** Defect Detection of Pantograph Slide Based on Deep Learning and Image Processing Technology (IEEE-TITS)[[paper](https://ieeexplore.ieee.org/document/8667891)]
 - Detection of PCB Surface Defects With Improved Faster-RCNN and Feature Pyramid Network (IEEE Access)[[paper](https://ieeexplore.ieee.org/document/9113299)]
 - Detection of PV Solar Panel Surface Defects using Transfer Learning of the Deep Convolutional Neural Networks (ASET)[[paper](https://ieeexplore.ieee.org/document/9118382)]
