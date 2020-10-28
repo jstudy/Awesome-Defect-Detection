@@ -49,6 +49,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows [[paper](https://arxiv.org/abs/2008.12577)]
 - Deep Learning for Anomaly Detection: A Survey [[paper](https://arxiv.org/abs/1901.03407v1)][[code](https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)]
 - Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation [[paper](https://arxiv.org/abs/2007.09438)]
+- Anomaly Detection on X-Rays Using Self-Supervised Aggregation Learning [[paper](https://arxiv.org/abs/2010.09856)]
+- A Versatile Crack Inspection Portable System based on Classifier Ensemble and Controlled Illumination [[paper](https://arxiv.org/abs/2010.09557)]
 
 
 
