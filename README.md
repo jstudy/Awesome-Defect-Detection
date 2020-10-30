@@ -27,6 +27,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Chinese Blog] 基于三维灰度矩阵的钢板缺陷图像识别算法 [[Link](https://mp.weixin.qq.com/s/EWK9r7p1MWHzELb02k1CUA)]
 - [Chinese Blog] 智能制造中的计算机视觉应用瓶颈问题 [[Link](https://mp.weixin.qq.com/s/ExvQuuJimZ-CKQz6P1jWjw)]
 - [Chinese Blog] 斩获道路损坏检测竞赛世界第三，滴滴AI视觉团队提出CFM算法 [[Link](https://mp.weixin.qq.com/s/GohNdr7vWxEl89ykZBwalw)]
+- [Chinese Blog] 基于机器视觉和深度学习的智能缺陷检测 [[Link](https://mp.weixin.qq.com/s/t_4jMqmXcrF3rEmQTbYEBA)]
+
 
 ### Tricks
 - [Chinese Blog] 深度学习训练tricks总结（均有实验支撑） [[Link](https://mp.weixin.qq.com/s?__biz=Mzg4ODA3OTcyNA==&mid=2247502051&idx=3&sn=761cc7b908f14bc64fc028db0e97274e&chksm=cf821ce0f8f595f60706a860e87b4169432fa91101875797cff772916cca47fb2002e00e292d&mpshare=1&scene=1&srcid=10224rDFCVIXmpVIB9Rz0WvV&sharer_sharetime=1603361600193&sharer_shareid=fd8c7684b39b2eac07b5e0c63bf1346a&key=98afdbf20ac9b6e8132e0838603e4323a86efc4bc50f877a881004c36b75d0448370a9483569cdeedc40a3eae7be56431cca20d5f3c11ae1833bc54cbf769e6bfa0e57737d6261032c9f9159ae0b0a1f4730d92103221e34cca6ee87cfbf713dbee1c22ac7e43bf10c7465375c7acba82ee2ac2f694c92d434916ac83fab97f6&ascene=1&uin=Mjg1Mzg0ODMzMA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AaoFLlmx7O6NSdJ2EYllnKA%3D&pass_ticket=Cz67wUTL3RpVi0NHLVPCJOM8DtIHGFNJZqgE5Tk%2FDHEDHwgbRWtMAfGco6cfR%2BOZ&wx_header=0)]
