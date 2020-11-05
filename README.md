@@ -53,7 +53,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation [[paper](https://arxiv.org/abs/2007.09438)]
 - Anomaly Detection on X-Rays Using Self-Supervised Aggregation Learning [[paper](https://arxiv.org/abs/2010.09856)]
 - A Versatile Crack Inspection Portable System based on Classifier Ensemble and Controlled Illumination [[paper](https://arxiv.org/abs/2010.09557)]
-
+- Crack Detection as a Weakly-Supervised Problem: Towards Achieving Less Annotation-Intensive Crack Detectors [[paper](https://arxiv.org/abs/2011.02208)]
 
 
 
