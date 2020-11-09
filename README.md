@@ -94,6 +94,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Surface damage detection for steel wire ropes using deep learning and computer vision techniques [[paper](https://www.sciencedirect.com/science/article/pii/S026322412030381X)]
 - A Data-Flow Oriented Deep Ensemble Learning Method for Real-Time Surface Defect Inspection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/8928581)]
 - A Deep Learning-Based Surface Defect Inspection System Using Multiscale and Channel-Compressed Features (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/9063543)]
+- CADN: A weakly supervised learning-based category-aware object detection network for surface defect detection (sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303745)]
 
 ### 2019
 
