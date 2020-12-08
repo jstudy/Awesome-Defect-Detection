@@ -29,6 +29,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Chinese Blog] 斩获道路损坏检测竞赛世界第三，滴滴AI视觉团队提出CFM算法 [[Link](https://mp.weixin.qq.com/s/GohNdr7vWxEl89ykZBwalw)]
 - [Chinese Blog] 基于机器视觉和深度学习的智能缺陷检测 [[Link](https://mp.weixin.qq.com/s/t_4jMqmXcrF3rEmQTbYEBA)]
 - [Chinese Blog] 工业图像异常检测最新研究总结（2019-2020） [[Link](https://mp.weixin.qq.com/s/TnaYw4xRsk7e0ctEQyiKJg)]
+- [Chinese Blog] 缺陷检测算法汇总（传统 + 深度学习方式）|综述、源码 [[Link](https://bbs.cvmart.net/topics/3866)]
+
 
 
 ### Tricks
