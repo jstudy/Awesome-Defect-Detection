@@ -75,7 +75,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="D-ConvNet"></a> **[RPAN]** Deep Learning-based Solar-Cell Manufacturing Defect Detection with Complementary Attention Network (Network-TII)[[paper](https://ieeexplore.ieee.org/document/9136904)]
 - <a name="D-ConvNet"></a> **[PGA-Net]** PGA-Net: Pyramid Feature Fusion and Global Context Attention Network for Automated Surface Defect Detection (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8930292)]
 - Deep-Learning-Based Small Surface Defect Detection via an Exaggerated Local Variation-Based Generative Adversarial Network (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8859390)]
-- <a name="D-ConvNet"></a> **[ESP]** Surface Defect Detection via Entity Sparsity Pursuit With Intrinsic Priors (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8717723)]
 - <a name="D-ConvNet"></a> **[NDT]** Multiview Learning for Subsurface Defect Detection in Composite Products: A Challenge on Thermographic Data Analysis (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8949715)]
 - <a name="D-ConvNet"></a> **[ERSCD]** A Surface Defect Detection Framework for Glass Bottle Bottom Using Visual Attention Model and Wavelet Transform (IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8795569)]
 - <a name="D-ConvNet"></a> **[WGANs]** A learning-based approach for surface defect detection using small image datasets [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220303386?via%3Dihub)]
