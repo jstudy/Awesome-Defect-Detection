@@ -30,6 +30,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Chinese Blog] 基于机器视觉和深度学习的智能缺陷检测 [[Link](https://mp.weixin.qq.com/s/t_4jMqmXcrF3rEmQTbYEBA)]
 - [Chinese Blog] 缺陷检测算法汇总（传统 + 深度学习方式）|综述、源码 [[Link](https://bbs.cvmart.net/topics/3866)]
 - [Chinese Blog] 工业图像异常检测最新研究总结（2019-2020）[[Link](https://mp.weixin.qq.com/s/K-md8q7Ne-PidgrtLRJCRQ)]
+- [Chinese Blog] 一文梳理缺陷检测方法（2019-2020）[[Link](https://mp.weixin.qq.com/s/lpNSgrQOFtSeeSK7IIJBMQ)]
+
 
 
 
@@ -98,6 +100,16 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Data-Flow Oriented Deep Ensemble Learning Method for Real-Time Surface Defect Inspection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/8928581)]
 - A Deep Learning-Based Surface Defect Inspection System Using Multiscale and Channel-Compressed Features (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/9063543)]
 - CADN: A weakly supervised learning-based category-aware object detection network for surface defect detection (sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303745)]
+- EDRNet: Encoder–Decoder Residual Network for Salient Object Detection of Strip Steel Surface Defects (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9116810)]
+- A Two-Stage Multiscale Residual Attention Network for Light Guide Plate Defect Detection (IEEE)[[paper](https://ieeexplore.ieee.org/document/9306797)]
+- RetinaNet With Difference Channel Attention and Adaptively Spatial Feature Fusion for Steel Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9270024)]
+- A Pixel-Level Segmentation Convolutional Neural Network Based on Deep Feature Fusion for Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9279361)]
+- A Lightweight Spatial and Temporal Multi-Feature Fusion Network for Defect Detection (IEEE-TIP)[[paper](https://ieeexplore.ieee.org/document/9259247)]
+- DefGAN: Defect Detection GANs With Latent Space Pitting for High-Speed Railway Insulator (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9259012)]
+
+
+
+
 
 ### 2019
 
