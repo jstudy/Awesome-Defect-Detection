@@ -30,7 +30,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Chinese Blog] 基于机器视觉和深度学习的智能缺陷检测 [[Link](https://mp.weixin.qq.com/s/t_4jMqmXcrF3rEmQTbYEBA)]
 - [Chinese Blog] 缺陷检测算法汇总（传统 + 深度学习方式）|综述、源码 [[Link](https://bbs.cvmart.net/topics/3866)]
 - [Chinese Blog] 工业图像异常检测最新研究总结（2019-2020）[[Link](https://mp.weixin.qq.com/s/K-md8q7Ne-PidgrtLRJCRQ)]
-- [Chinese Blog] 一文梳理缺陷检测方法（2019-2020）[[Link](https://mp.weixin.qq.com/s/lpNSgrQOFtSeeSK7IIJBMQ)]
+- [Chinese Blog] 一文梳理缺陷检测方法[[Link](https://mp.weixin.qq.com/s/lpNSgrQOFtSeeSK7IIJBMQ)]
+- [Chinese Blog] WACV 2021 论文大盘点-GAN 篇与行人监控篇[[Link](https://bbs.cvmart.net/topics/4133)]
+
 
 
 
