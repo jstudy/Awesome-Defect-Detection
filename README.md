@@ -71,7 +71,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <summary>Earlier ArXiv Papers</summary>
 
 </details>
-
+### 2021
+- Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9123596)]
+- **[FFCNN]** A Deep Neural Network for Surface Defect Detection of Magnetic Tile (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9047149)]
 
 ### 2020
 
