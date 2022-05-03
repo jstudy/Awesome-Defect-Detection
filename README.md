@@ -76,7 +76,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9123596)]
 - **[FFCNN]** A Deep Neural Network for Surface Defect Detection of Magnetic Tile (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9047149)]
-- CutPaste: Self-Supervised Learning for Anomaly Detection and Localization (CVPR2021)[[paper](https://arxiv.org/pdf/2104.04015v1.pdf)[code](https://github.com/Runinho/pytorch-cutpaste)]
+- CutPaste: Self-Supervised Learning for Anomaly Detection and Localization (CVPR-2021)[[paper](https://arxiv.org/pdf/2104.04015v1.pdf)][[code](https://github.com/Runinho/pytorch-cutpaste)]
 
 ### 2020
 
