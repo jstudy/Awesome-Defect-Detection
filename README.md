@@ -61,7 +61,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation [[paper](https://arxiv.org/abs/2007.09438)]
 - Anomaly Detection on X-Rays Using Self-Supervised Aggregation Learning [[paper](https://arxiv.org/abs/2010.09856)]
 - A Versatile Crack Inspection Portable System based on Classifier Ensemble and Controlled Illumination [[paper](https://arxiv.org/abs/2010.09557)]
-- Crack Detection as a Weakly-Supervised Problem: Towards Achieving Less Annotation-Intensive Crack Detectors [[paper](https://arxiv.org/abs/2011.02208)]
+- Crack Detection as a Weakly-Supervised Problem: Towards Achieving Less Annotation-Intensive Crack Detectors [[paper](https://arxiv.org/abs/2011.02208)[code](https://github.com/MrtnMndt/meta-learning-CODEBRIM)]]
 
 
 
@@ -76,7 +76,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9123596)]
 - **[FFCNN]** A Deep Neural Network for Surface Defect Detection of Magnetic Tile (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9047149)]
-
+- 
+- CutPaste: Self-Supervised Learning for Anomaly Detection and Localization (CVPR2021)[[paper](https://arxiv.org/pdf/2104.04015v1.pdf)]
+https://github.com/Runinho/pytorch-cutpaste
 ### 2020
 
 - Inspection of Imprint Defects in Stamped Metal Surfaces using Deep Learning and Tracking (IEEE-TIE)[[paper](https://ieeexplore.ieee.org/document/9062515)]
