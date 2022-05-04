@@ -62,6 +62,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Anomaly Detection on X-Rays Using Self-Supervised Aggregation Learning [[paper](https://arxiv.org/abs/2010.09856)]
 - A Versatile Crack Inspection Portable System based on Classifier Ensemble and Controlled Illumination [[paper](https://arxiv.org/abs/2010.09557)]
 - Crack Detection as a Weakly-Supervised Problem: Towards Achieving Less Annotation-Intensive Crack Detectors [[paper](https://arxiv.org/abs/2011.02208)[code](https://github.com/MrtnMndt/meta-learning-CODEBRIM)]]
+- CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation(2021)[[paper](https://arxiv.org/pdf/2102.04664v2.pdf)]
+[[code](https://github.com/microsoft/CodeXGLUE)]
+-Learning to Detect Multiple Photographic Defects
+
+
 
 
 
@@ -87,6 +92,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - An End-to-End Defect Detection Method for Mobile(IEEE-TIM-2021)[[paper](https://ieeexplore.ieee.org/document/8709818)]
 - Automatic zipper tape defect detection using two-stage multi-scale-Neurocomputing(sciencedirect)[[paper](https://owuchangyuo.github.io/files/SPC.pdf)]
 - Sparse Low-Rank Tensor Decomposition (IEEE-TII-2021)[[paper](https://ieeexplore.ieee.org/document/9091912)]
+- Mixed supervision for surface-defect detection: from weakly to fully supervised learning(COMPUT-IND)[[paper](https://arxiv.org/pdf/2104.06064v3.pdf)][[code](https://github.com/vicoslab/mixed-segdec-net-comind2021)]
+- A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection(CVPR)[[paper](https://arxiv.org/pdf/2104.14535v1.pdf)][[code](https://github.com/shellysheynin/A-Hierarchical-Transformation-Discriminating-Generative-Model-for-Few-Shot-Anomaly-Detection)]
+- Deep Learning Based Steel Pipe Weld Defect Detection(CVPR)[[paper](https://arxiv.org/ftp/arxiv/papers/2104/2104.14907.pdf)][[code](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)]
+
 
 ### 2020
 
@@ -101,8 +110,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - An Efficient Convolutional Neural Network Model Based on Object-Level Attention Mechanism for Casting Defect Detection on Radiography Images (IEEE-TIE)[[paper](https://ieeexplore.ieee.org/document/8948332)]
 - <a name="D-ConvNet"></a> **[GAN]** Multistage GAN for Fabric Defect Detection (IEEE-TIP)[[paper](https://ieeexplore.ieee.org/document/8937049)]
 - A simulation-based few samples learning method for surface defect segmentation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220310791?via%3Dihub)]
-
-
 - A Generic Semi-Supervised Deep Learning-Based Approach for Automated Surface Inspection (IEEE-Access)[[paper](https://ieeexplore.ieee.org/document/9121251)]
 - A novel algorithm for defect extraction and classification of mobile phone screen based on machine vision (Inf Fusion)[[paper](https://www.sciencedirect.com/science/article/pii/S0360835220302643)]
 - A Steel Surface Defect Recognition Algorithm Based on Improved Deep Learning Network Model Using Feature Visualization and Quality Evaluation (IEEE-Access)[[paper](https://ieeexplore.ieee.org/document/9031427)]
@@ -123,6 +130,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Pixel-Level Segmentation Convolutional Neural Network Based on Deep Feature Fusion for Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9279361)]
 - A Lightweight Spatial and Temporal Multi-Feature Fusion Network for Defect Detection (IEEE-TIP)[[paper](https://ieeexplore.ieee.org/document/9259247)]
 - DefGAN: Defect Detection GANs With Latent Space Pitting for High-Speed Railway Insulator (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9259012)]
+- Semi-supervised Anomaly Detection using AutoEncoders (CVPR-2020) [[paper](https://arxiv.org/pdf/2001.03674.pdf)][[code](https://github.com/msminhas93/anomaly-detection-using-autoencoders)]
 
 
 
@@ -145,12 +153,13 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - <a name="SANet"></a> **[CTFM]** A Coarse-to-Fine Model for Rail Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8424494)]
 - <a name="SANet"></a> **[MIL]** Real-world Anomaly Detection in Surveillance Videos (CVPR-2018)[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)][[code](https://github.com/root-master/pose-anomaly-detection?utm_source=catalyzex.com)]
+- Surface Defect Saliency of Magnetic Tile(IEEE-CASE)[[paper](https://ieeexplore.ieee.org/document/8560423)][[code](https://github.com/abin24/Saliency-detection-toolbox)]
 
 
 ### 2017
 -Dimensionality Reduction-Based Diagnosis of (IEEE-SMC-2017)[[paper](https://ieeexplore.ieee.org/abstract/document/8123006)]
 
-
+-Sequential Score Adaptation with Extreme Value Theory for Robust Railway Track Inspection(CVRSUAD 2015)[[paper](https://arxiv.org/pdf/1510.05822.pdf)][[code](https://github.com/xavigibert/EvtTrack)]
 
 
 ## Leaderboard
