@@ -77,6 +77,16 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9123596)]
 - **[FFCNN]** A Deep Neural Network for Surface Defect Detection of Magnetic Tile (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9047149)]
 - CutPaste: Self-Supervised Learning for Anomaly Detection and Localization (CVPR-2021)[[paper](https://arxiv.org/pdf/2104.04015v1.pdf)][[code](https://github.com/Runinho/pytorch-cutpaste)]
+- (RCAG-Net)RCAG-Net Residual Channelwise Attention Gate(IEEE-TIM-2021)  [[paper](http://nave.vr3i.com/attached/file/20210318/20210318094619_961.pdf)][[code](https://github.com/binyisu/RCAG)]
+- (SDDNet) A Fast and Accurate Network(IEEE-TIM-2021) [[paper](https://ieeexplore.ieee.org/document/9353254)]
+- A Hybrid Fuzzy Convolutional Neural Network(IEEE-TPDS-2021)[[paper](https://ieeexplore.ieee.org/document/9301240)]
+- A Lightweight Spatial and Temporal Multi-Feature(IEEE-TIP-2021)[[paper](https://ieeexplore.ieee.org/document/9259247)]
+- A Pixel-Level Segmentation Convolutional Neural(IEEE-TIM-2021)[[paper](https://ieeexplore.ieee.org/document/9279361)]
+- A Real-Time Defect Detection Method(IEEE-TII-2021)[[paper](https://ieeexplore.ieee.org/document/9153815)]
+- An Accurate and Real-Time Surface Defects Detection(IEEE-TIM-2021)[[paper](https://ieeexplore.ieee.org/document/9199385)]
+- An End-to-End Defect Detection Method for Mobile(IEEE-TIM-2021)[[paper](https://ieeexplore.ieee.org/document/8709818)]
+- Automatic zipper tape defect detection using two-stage multi-scale-Neurocomputing(sciencedirect)[[paper](https://owuchangyuo.github.io/files/SPC.pdf)]
+- Sparse Low-Rank Tensor Decomposition (IEEE-TII-2021)[[paper](https://ieeexplore.ieee.org/document/9091912)]
 
 ### 2020
 
@@ -128,6 +138,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Automatic fabric defect detection with a wide-and-compact network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218313109?via%3Dihub)]
 - AnomalyNet: An Anomaly Detection Network for Video Surveillance (IEEE-TIFS)[[paper](https://ieeexplore.ieee.org/document/8649753)]
 - Anomaly Detection in Images (CVPR-2019)[[paper](https://arxiv.org/abs/1905.13147)]
+- A Smart Monitoring System for Automatic(TIE-2019)[[paper](https://ieeexplore.ieee.org/document/8637166)]
 
 
 ### 2018
@@ -137,6 +148,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 
 ### 2017
+-Dimensionality Reduction-Based Diagnosis of (IEEE-SMC-2017)[[paper](https://ieeexplore.ieee.org/abstract/document/8123006)]
+
 
 
 
