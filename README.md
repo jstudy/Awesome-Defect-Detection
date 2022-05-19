@@ -95,6 +95,13 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Mixed supervision for surface-defect detection: from weakly to fully supervised learning(COMPUT-IND)[[paper](https://arxiv.org/pdf/2104.06064v3.pdf)][[code](https://github.com/vicoslab/mixed-segdec-net-comind2021)]
 - A Hierarchical Transformation-Discriminating Generative Model for Few Shot Anomaly Detection(CVPR)[[paper](https://arxiv.org/pdf/2104.14535v1.pdf)][[code](https://github.com/shellysheynin/A-Hierarchical-Transformation-Discriminating-Generative-Model-for-Few-Shot-Anomaly-Detection)]
 - Deep Learning Based Steel Pipe Weld Defect Detection(CVPR)[[paper](https://arxiv.org/ftp/arxiv/papers/2104/2104.14907.pdf)][[code](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)]
+- DRÆM – A discriminatively trained reconstruction embedding for surface anomaly detection(ICCV-2021)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.pdf)][[code](https://github.com/vitjanz/draem)]
+- Auto-Annotated Deep Segmentation for Surface Defect Detection(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9449912)]
+- Dense Attention-Guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9632537)][[code](https://github.com/zxforchid/DACNet)]
+- EDRNet: Encoder–Decoder Residual Network for Salient Object Detection of Strip Steel Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9116810)][[code](https://github.com/SongGuorong/EDRNet)]
+- Fabric Defect Segmentation Method Based on Deep Learning(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9312748)]
+
+
 
 
 ### 2020
@@ -131,10 +138,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Lightweight Spatial and Temporal Multi-Feature Fusion Network for Defect Detection (IEEE-TIP)[[paper](https://ieeexplore.ieee.org/document/9259247)]
 - DefGAN: Defect Detection GANs With Latent Space Pitting for High-Speed Railway Insulator (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9259012)]
 - Semi-supervised Anomaly Detection using AutoEncoders (CVPR-2020) [[paper](https://arxiv.org/pdf/2001.03674.pdf)][[code](https://github.com/msminhas93/anomaly-detection-using-autoencoders)]
-
-
-
-
+- A Compact Convolutional Neural Network for Surface Defect Inspection (MDPI)[[paper](https://www.semanticscholar.org/paper/A-Compact-Convolutional-Neural-Network-for-Surface-Huang-Qiu/4675b6b4075ddf91df71cc0677c3b36df0ac46bc)][[code](https://github.com/shanglianlm0525/PyTorch-Networks)]
+- A Defect-Detection Method of Split Pins in the Catenary Fastening Devices of High-Speed Railway Based on Deep Learning(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9130739)]
+- A Novel Pixel-Wise Defect Inspection Method Based on Stable Background Reconstruction(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9261598)]
+- MCnet: Multiple Context Information Segmentation Network of No-Service Rail Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9285332)][[code](https://github.com/ThienHuynhThe/MCNet)]
 
 ### 2019
 
@@ -147,6 +154,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - AnomalyNet: An Anomaly Detection Network for Video Surveillance (IEEE-TIFS)[[paper](https://ieeexplore.ieee.org/document/8649753)]
 - Anomaly Detection in Images (CVPR-2019)[[paper](https://arxiv.org/abs/1905.13147)]
 - A Smart Monitoring System for Automatic(TIE-2019)[[paper](https://ieeexplore.ieee.org/document/8637166)]
+- Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects(IEEE-TASE)[[paper](https://ieeexplore.ieee.org/abstract/document/8598794)]
+- PGA-Net: Pyramid Feature Fusion and Global Context Attention Network for Automated Surface Defect Detection(IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8930292)][[code](https://github.com/ssr0512/PGA-Net)]
+- Segmentation-Based Deep-Learning Approach for Surface-Defect Detection()[[paper](https://arxiv.org/abs/1903.08536v3)][[code](https://github.com/ssr0512/PGA-Net)]
 
 
 ### 2018
@@ -154,6 +164,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SANet"></a> **[CTFM]** A Coarse-to-Fine Model for Rail Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8424494)]
 - <a name="SANet"></a> **[MIL]** Real-world Anomaly Detection in Surveillance Videos (CVPR-2018)[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)][[code](https://github.com/root-master/pose-anomaly-detection?utm_source=catalyzex.com)]
 - Surface Defect Saliency of Magnetic Tile(IEEE-CASE)[[paper](https://ieeexplore.ieee.org/document/8560423)][[code](https://github.com/abin24/Saliency-detection-toolbox)]
+- A Compact Convolutional Neural Network for Textured Surface Anomaly Detection(WACV)[[paper](https://ieeexplore.ieee.org/document/8560423)][[code](https://github.com/msminhas93/CompactCNN)]
 
 
 ### 2017
