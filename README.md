@@ -130,7 +130,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Surface damage detection for steel wire ropes using deep learning and computer vision techniques [[paper](https://www.sciencedirect.com/science/article/pii/S026322412030381X)]
 - A Data-Flow Oriented Deep Ensemble Learning Method for Real-Time Surface Defect Inspection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/8928581)]
 - A Deep Learning-Based Surface Defect Inspection System Using Multiscale and Channel-Compressed Features (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/9063543)]
-- CADN: A weakly supervised learning-based category-aware object detection network for surface defect detection (sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303745)]
 - EDRNet: Encoder–Decoder Residual Network for Salient Object Detection of Strip Steel Surface Defects (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9116810)]
 - A Two-Stage Multiscale Residual Attention Network for Light Guide Plate Defect Detection (IEEE)[[paper](https://ieeexplore.ieee.org/document/9306797)]
 - RetinaNet With Difference Channel Attention and Adaptively Spatial Feature Fusion for Steel Surface Defect Detection (IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9270024)]
@@ -142,6 +141,13 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Defect-Detection Method of Split Pins in the Catenary Fastening Devices of High-Speed Railway Based on Deep Learning(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9130739)]
 - A Novel Pixel-Wise Defect Inspection Method Based on Stable Background Reconstruction(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9261598)]
 - MCnet: Multiple Context Information Segmentation Network of No-Service Rail Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9285332)][[code](https://github.com/ThienHuynhThe/MCNet)]
+- Polycrystalline silicon wafer defect segmentation based on deep convolutional neural networks(sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0167865518309243)]
+- An End-to-End Steel Surface Defect Detection Approach via Fusing Multiple Hierarchical Features(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8709818)]
+- Detecting textile micro-defects: A novel and efficient method based on visual gain mechanism(sciencedirect)
+- [[paper](https://www.sciencedirect.com/science/article/pii/S0020025520306216)]
+
+
+
 
 ### 2019
 
@@ -157,6 +163,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects(IEEE-TASE)[[paper](https://ieeexplore.ieee.org/abstract/document/8598794)]
 - PGA-Net: Pyramid Feature Fusion and Global Context Attention Network for Automated Surface Defect Detection(IEEE-TII)[[paper](https://ieeexplore.ieee.org/document/8930292)][[code](https://github.com/ssr0512/PGA-Net)]
 - Segmentation-Based Deep-Learning Approach for Surface-Defect Detection()[[paper](https://arxiv.org/abs/1903.08536v3)][[code](https://github.com/ssr0512/PGA-Net)]
+- Surface Defects Detection Based on Adaptive Multiscale Image Collection and Convolutional Neural Networks(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/8661668)]
 
 
 ### 2018
@@ -165,6 +172,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SANet"></a> **[MIL]** Real-world Anomaly Detection in Surveillance Videos (CVPR-2018)[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf)][[code](https://github.com/root-master/pose-anomaly-detection?utm_source=catalyzex.com)]
 - Surface Defect Saliency of Magnetic Tile(IEEE-CASE)[[paper](https://ieeexplore.ieee.org/document/8560423)][[code](https://github.com/abin24/Saliency-detection-toolbox)]
 - A Compact Convolutional Neural Network for Textured Surface Anomaly Detection(WACV)[[paper](https://ieeexplore.ieee.org/document/8560423)][[code](https://github.com/msminhas93/CompactCNN)]
+- Surface Defect Saliency of Magnetic Tile(IEEE-CASE)[[paper](https://ieeexplore.ieee.org/document/8560423/authors#authors)]
 
 
 ### 2017
