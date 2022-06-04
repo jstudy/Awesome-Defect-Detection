@@ -143,8 +143,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - MCnet: Multiple Context Information Segmentation Network of No-Service Rail Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9285332)][[code](https://github.com/ThienHuynhThe/MCNet)]
 - Polycrystalline silicon wafer defect segmentation based on deep convolutional neural networks(sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0167865518309243)]
 - An End-to-End Steel Surface Defect Detection Approach via Fusing Multiple Hierarchical Features(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/abstract/document/8709818)]
-- Detecting textile micro-defects: A novel and efficient method based on visual gain mechanism(sciencedirect)
-- [[paper](https://www.sciencedirect.com/science/article/pii/S0020025520306216)]
+- Detecting textile micro-defects: A novel and efficient method based on visual gain mechanism(sciencedirect)[[paper](https://www.sciencedirect.com/science/article/pii/S0020025520306216)]
 
 
 
