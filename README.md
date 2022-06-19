@@ -77,11 +77,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 </details>
 
-### 2021
+### 2022
 - Data Augmentation in Defect Detection of Sanitary Ceramics in Small and Non-i.i.d Datasets(IEEE-TNNLS)[[paper](https://ieeexplore.ieee.org/document/9732170)]
 - BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection(IEEE-TIE)[[paper](https://ieeexplore.ieee.org/document/9398560)]
-
-
 
 
 
