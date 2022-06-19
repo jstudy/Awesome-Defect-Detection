@@ -78,6 +78,14 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- Data Augmentation in Defect Detection of Sanitary Ceramics in Small and Non-i.i.d Datasets(IEEE-TNNLS)[[paper](https://ieeexplore.ieee.org/document/9732170)]
+- BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection(IEEE-TIE)[[paper](https://ieeexplore.ieee.org/document/9398560)]
+
+
+
+
+
+### 2021
 
 - Unsupervised Saliency Detection of Rail Surface Defects Using Stereoscopic Images (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9123596)]
 - **[FFCNN]** A Deep Neural Network for Surface Defect Detection of Magnetic Tile (IEEE-TII)[[paper](https://ieeexplore.ieee.org/abstract/document/9047149)]
@@ -100,6 +108,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Dense Attention-Guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9632537)][[code](https://github.com/zxforchid/DACNet)]
 - EDRNet: Encoder–Decoder Residual Network for Salient Object Detection of Strip Steel Surface Defects(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9116810)][[code](https://github.com/SongGuorong/EDRNet)]
 - Fabric Defect Segmentation Method Based on Deep Learning(IEEE-TIM)[[paper](https://ieeexplore.ieee.org/document/9312748)]
+- Robust Similarity Measurement Based on a Novel Time Filter for SSVEPs Detection(IEEE-TNNLS)[[paper](https://ieeexplore.ieee.org/abstract/document/9570723/)]
+- Automated Defect Detection From Ultrasonic Images Using Deep Learning(IEEE-TUFFC)[[paper](https://ieeexplore.ieee.org/document/9435411)]
 
 
 
